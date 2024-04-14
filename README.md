@@ -8,7 +8,7 @@ Welcome to Muse Coffee Shop, a virtual representation of a stylish café. It ser
 
 ## Preview
 
-![Muse Coffee Shop](./frontend/src/public/muse-cafe.png)
+![Muse Coffee Shop](./frontend/public/muse-cafe.png)
 
 ## Link
 
