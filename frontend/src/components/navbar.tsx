@@ -12,7 +12,7 @@ function Navbar() {
           À propos
         </a>
         <a href="#gallery" className="navbar-link">
-          Gallerie
+          Galerie
         </a>
         <a href="#contact" className="navbar-link">
           Contact
