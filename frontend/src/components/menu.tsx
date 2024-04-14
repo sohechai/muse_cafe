@@ -8,7 +8,7 @@ function Menu() {
         <h1>Menu</h1>
         <div className="menu-margin">
           <a href={menu} download="menu_muse.pdf" className="dl_menu">
-            Download menu
+            Télécharger menu
           </a>
         </div>
       </div>

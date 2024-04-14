@@ -17,7 +17,7 @@ function callOut() {
           <div className="block">
             <h2>Iced Americano</h2>
             <a className="a_button" href="#menu">
-              View menu
+              Voir le menu
             </a>
           </div>
         </div>
