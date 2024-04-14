@@ -96,6 +96,7 @@
 .title > h1 {
     position: absolute;
     font-size: 3vw;
+    font-weight: 200;
     background-color: var(--bg-color);
     padding: 2.5vw 0 2.5vw 3vw;
 }
@@ -220,6 +221,9 @@
 
 .about-container > h1 {
     margin-bottom: 64px;
+}
+.about-container > p {
+    /* font-weight: 200; */
 }
 
 /* gallery */
