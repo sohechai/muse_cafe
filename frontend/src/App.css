@@ -141,6 +141,13 @@
     margin: 212px;
 }
 
+.menu-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    align-items: center;
+}
+
 .menu {
     display: flex;
     flex-direction: column;
