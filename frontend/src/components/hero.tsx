@@ -20,7 +20,7 @@ function HeroSection() {
           <h1>
             Découvrez l'inspiration au cœur de chaque tasse chez Muse Coffee
             Shop, où l'art du café rencontre la créativité dans un cadre
-            enchanteur.
+            enchanteur
           </h1>
         </motion.div>
       </div>
