@@ -3,7 +3,6 @@ import image02 from "../assets/image-02.png";
 import image03 from "../assets/image-03.png";
 import image04 from "../assets/image-04.png";
 import image05 from "../assets/image-05.png";
-import image06 from "../assets/image-06.png";
 
 function Gallery() {
   return (
