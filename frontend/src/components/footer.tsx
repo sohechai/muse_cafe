@@ -30,7 +30,7 @@ function Footer() {
               <span>Cookies</span>
             </div>
             <span className="copyright">
-              © 2024 Muse Coffee Shop. Tous droits réservés. Site fictif.
+              © 2024 Muse Coffee Shop. Tous droits réservés. Site fictif.
             </span>
           </div>
           <div className="footer-right">
