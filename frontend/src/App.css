@@ -129,6 +129,7 @@
 /* menu */
 .menu-container {
     margin: 212px;
+    padding: 212px 0 212px 0;
 }
 
 .menu-header {
@@ -206,6 +207,7 @@
 /* about */
 .about-container {
     margin: 212px;
+    padding: 212px 0 212px 0;
 }
 
 .about-container > h1 {
@@ -229,6 +231,7 @@ h2 {
 
 .gallery-container {
     margin: 212px;
+    padding: 212px 0 212px 0;
 }
 
 .gallery {
